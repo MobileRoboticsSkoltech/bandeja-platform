@@ -4,3 +4,6 @@
 [submodule "bandeja-wrapper"]
 	path = bandeja-wrapper
 	url = https://github.com/MobileRoboticsSkoltech/bandeja-wrapper
+[submodule "bandeja-mcu-firmware"]
+	path = bandeja-mcu-firmware
+	url = https://github.com/MobileRoboticsSkoltech/bandeja-mcu-firmware
