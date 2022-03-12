@@ -13,6 +13,8 @@ The materials represent diverse software their own functionality launched on dif
     <tr> <td> <a href="https://github.com/MobileRoboticsSkoltech/bag-extractor">bag-extractor</a> </td> <td>CLI-script that extracts recorded ROS bag files to images and other data types distributed to paths</td> <td>any PC</td> </tr>
 </table>
 
+Using this materials please do not forget to reference this repository and cite the paper:
+
 ```
 @article{faizullin2022smartdepthsync,
   author={Faizullin, Marsel and Kornilova, Anastasiia and Akhmetyanov, Azat and Pakulev, Konstantin and Sadkov, Andrey and Ferrer, Gonzalo},
