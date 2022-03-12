@@ -1,0 +1,6 @@
+[submodule "bandeja-ros-src"]
+	path = bandeja-ros-src
+	url = https://github.com/MobileRoboticsSkoltech/bandeja-ros-src
+[submodule "bandeja-wrapper"]
+	path = bandeja-wrapper
+	url = https://github.com/MobileRoboticsSkoltech/bandeja-wrapper
