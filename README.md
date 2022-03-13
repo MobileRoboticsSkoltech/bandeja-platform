@@ -17,6 +17,11 @@ The materials represent diverse software and their own functionality launched on
     <tr> <td> <a href="https://github.com/MobileRoboticsSkoltech/bag-extractor">bag-extractor</a> </td> <td>CLI-script that extracts recorded ROS bag files to images and other data types distributed to paths</td> <td>any PC</td> </tr>
 </table>
 
+For entire clone with submodules:
+```
+git clone --recurse-submodules https://github.com/MobileRoboticsSkoltech/bandeja-platform
+```
+
 Using this materials please do not forget to reference this repository and cite the paper:
 
 ```
