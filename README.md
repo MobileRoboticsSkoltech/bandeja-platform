@@ -1,9 +1,13 @@
 # SmartDepthSync: Open Source Synchronized Video Recording System of Smartphone RGB and Depth Camera Range Image Frames with Sub-millisecond Precision
 
-This is a repository that gathers open-source materials introduced in the SmartDepthSync paper ([IEEE link](https://ieeexplore.ieee.org/document/9709778/),
-[arXiv link](https://arxiv.org/abs/2111.03552)).
+<p align="center">
+  <img src="common.png"/>
+</p>
 
-The materials represent diverse software their own functionality launched on different hardware:
+This is a repository that gathers open-source materials introduced and described in the SmartDepthSync paper ([IEEE link](https://ieeexplore.ieee.org/document/9709778/),
+[arXiv link](https://arxiv.org/abs/2111.03552)). In addition to the paper, some description can be found in the links in the table below. The table keeps all the important link to the building parts of the system depicted in the image.  
+
+The materials represent diverse software and their own functionality launched on different hardware:
 <table>
     <tr> <td>Material</td> <td>Function</td> <td>Launched on</td> </tr>
     <tr> <td> <a href="https://github.com/MobileRoboticsSkoltech/bandeja-wrapper/tree/19deb471355687901d7c3812a64ab3299d4db7a5">Python launcher</a> </td> <td>command-line tool that is entry point for setup (launch of sensors, synchronization) and recording to ROS bag file procedures</td> <td> mini-PC </td> </tr>
