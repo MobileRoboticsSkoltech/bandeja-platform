@@ -22,6 +22,9 @@ For entire clone with submodules:
 git clone --recurse-submodules https://github.com/MobileRoboticsSkoltech/bandeja-platform
 ```
 
+## Twist-n-Sync Python Package
+Synchronization is based on our [Twist-n-Sync](https://github.com/MobileRoboticsSkoltech/twistnsync-python) algorithm that can be installed via `pip`.
+
 Using this materials please do not forget to reference this repository and cite the paper:
 
 ```
