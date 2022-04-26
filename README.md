@@ -34,9 +34,9 @@ Using this materials please do not forget to reference this repository and cite 
   journal={IEEE Sensors Journal}, 
   publisher={IEEE},
   year={2022},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={22},
+  number={7},
+  pages={7043-7052},
   doi={10.1109/JSEN.2022.3150973}
 }
 ```
